@@ -1,0 +1,8 @@
+/template.X/nbproject/private/
+/template.X/build/
+/template.X/debug/
+/template.X/dist/
+/tmp/
+*.dump
+*~
+*DS_Store
